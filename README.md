@@ -1,4 +1,4 @@
-# foundry-fund-me-f23
+# Curso foundry-fund-me-f23 por Patrick Collins
 
 1 - Hacer un adecuado Readme.MD - OK
         Se puede utilizar el modelo readme del curso, utilizando su estructura y 
@@ -6,7 +6,9 @@
 
         
 2 - Test de integracion - OK
+
 3 - Verificacion programatica - OK
+
 4 - Colocar en GitHub - OK
 
 # ACERCA DE 
